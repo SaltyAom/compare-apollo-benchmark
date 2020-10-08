@@ -1,0 +1,1 @@
+This repo is for benchmark with [actix-juniper-async](https://github.com/SaltyAom/actix-juniper-async)
